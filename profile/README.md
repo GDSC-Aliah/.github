@@ -2,6 +2,7 @@
 ![gdsc-logo-big](https://github.com/GDSC-Aliah/.github/assets/79701644/81d16e2d-3b11-4787-85c2-d8742973bbee)
 <h1 align=center>Aliah University</h1>
 
-## Who are we?
-We are a group of passionate developers that have faced real world challenges and have been victorious. We want to spread our learnings and experiences to our fellows so that they won't face the same. With our help and guidance, students who are willing to push through will get a great boost in their skills, tech stack, soft skills and other neccessities. We are making our community industry ready.
+## About
+Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
+At GDSC Aliah, we will be introducing students to all the ins and outs of the IT field and also introduce them to the new technologies and its applications. We are aiming towards improvements of the members of this club and also hoping they would be benefiting in their growth and personal development along with having guidance and mentorship throughout their journey.
