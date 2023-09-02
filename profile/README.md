@@ -4,9 +4,7 @@
 
 ## About
 
-At GDSC Aliah, we will be introducing students to all the ins and outs of the IT field and also introduce them to the new technologies and its applications. We are aiming towards improvements of the members of this club and also hoping they would be benefiting in their growth and personal development along with having guidance and mentorship throughout their journey.
-
-This organization is aligned with our mission to promote and support open-source development, technology enthusiasts, and learners within our club. By establishing this organization, we aim to provide a centralized platform for our club members to collaborate on various technical projects, showcase their skills, and contribute to the open-source community.
+Our organization is aligned with our mission to promote and support open-source development, technology enthusiasts, and learners within our club. By establishing this organization, we aim to provide a centralized platform for our club members to collaborate on various technical projects, showcase their skills, and contribute to the open-source community.
 
 ## Objectives
 
